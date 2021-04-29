@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 public class triplets_1 {
-   
+   //Question - To find no of triplets in an array which divides array in two parts and left and right parts are equal
 
 	public static void solution(int[] arr){
 		int count=0;
