@@ -68,7 +68,7 @@ public class print_all_minimum_path{
             if(steps > 0){
                 for(int i = 1 ; i <= steps ;i++){
                     if(idx + i < arr.length)
-                        min = Math.min(min,dp[idx+i]);
+                        {min = Math.min(min,dp[idx+i]);}
                 }
             }
             dp[idx] = min == Integer.MAX_VALUE ? min : min+1;
@@ -98,3 +98,4 @@ public class print_all_minimum_path{
     
         
     }
+}
