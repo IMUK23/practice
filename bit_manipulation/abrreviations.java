@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class abbreviations {
+public class abrreviations{
 
     public static void solve(String str){
         for(int i=0;i<(1<<str.length()/* <- This is 1000 for length 3 i.e 8*/);i++){

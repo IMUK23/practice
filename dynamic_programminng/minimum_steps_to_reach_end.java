@@ -19,6 +19,7 @@ public class minimum_steps_to_reach_end {
         
         for(int i=1;i<n;i++){
             if(i==n-1){
+                System.out.println("maxreach : "+maxreach+"steps : "+steps+"jumps :"+jump);
                 return jump;
             }
             
@@ -36,7 +37,7 @@ public class minimum_steps_to_reach_end {
                 steps=maxreach-i;
             }
             
-            
+            System.out.println("maxreach : "+maxreach+"steps : "+steps+"jumps :"+jump);  
         }
         
        return -1; 
