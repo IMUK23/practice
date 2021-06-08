@@ -1,6 +1,6 @@
 package include_exclude_style;
 
-java.util.*;
+import java.util.*;
 public class alternating_sequence {
     
     public class Pair{
