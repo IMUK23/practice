@@ -1,3 +1,4 @@
+package paths;
 /*Bhai question pichle wale jaisa hi hai bss mushkil itni hai ki order kya hai ye ni pta chalta*/
 
 import java.io.*;

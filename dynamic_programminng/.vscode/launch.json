@@ -1,0 +1,119 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Codechef",
+            "request": "launch",
+            "mainClass": "Codechef",
+            "projectName": "dynamic_programminng_9e5affcb"
+        },
+        {
+            "type": "java",
+            "name": "Launch count_brackets",
+            "request": "launch",
+            "mainClass": "catalan_numbers.count_brackets",
+            "projectName": "dynamic_programminng_9e5affcb"
+        },
+        {
+            "type": "java",
+            "name": "Launch count_valleys",
+            "request": "launch",
+            "mainClass": "catalan_numbers.count_valleys",
+            "projectName": "dynamic_programminng_9e5affcb"
+        },
+        {
+            "type": "java",
+            "name": "Launch number_of_binary_trees",
+            "request": "launch",
+            "mainClass": "catalan_numbers.number_of_binary_trees",
+            "projectName": "dynamic_programminng_9e5affcb"
+        },
+        {
+            "type": "java",
+            "name": "Launch number_of_bsts",
+            "request": "launch",
+            "mainClass": "catalan_numbers.number_of_bsts",
+            "projectName": "dynamic_programminng_9e5affcb"
+        },
+        {
+            "type": "java",
+            "name": "Launch count_distince_subsequences",
+            "request": "launch",
+            "mainClass": "count_distince_subsequences",
+            "projectName": "dynamic_programminng_9e5affcb"
+        },
+        {
+            "type": "java",
+            "name": "Launch count_pallindromic_substrings",
+            "request": "launch",
+            "mainClass": "count_pallindromic_substrings",
+            "projectName": "dynamic_programminng_9e5affcb"
+        },
+        {
+            "type": "java",
+            "name": "Launch longest_bitonic_sequence",
+            "request": "launch",
+            "mainClass": "longest_bitonic_sequence",
+            "projectName": "dynamic_programminng_9e5affcb"
+        },
+        {
+            "type": "java",
+            "name": "Launch longest_increasing_subsequence",
+            "request": "launch",
+            "mainClass": "longest_increasing_subsequence",
+            "projectName": "dynamic_programminng_9e5affcb"
+        },
+        {
+            "type": "java",
+            "name": "Launch longest_pallindromic_subsequence",
+            "request": "launch",
+            "mainClass": "longest_pallindromic_subsequence",
+            "projectName": "dynamic_programminng_9e5affcb"
+        },
+        {
+            "type": "java",
+            "name": "Launch maximum_nonoverlapping_bridges",
+            "request": "launch",
+            "mainClass": "maximum_nonoverlapping_bridges",
+            "projectName": "dynamic_programminng_9e5affcb"
+        },
+        {
+            "type": "java",
+            "name": "Launch min_squares",
+            "request": "launch",
+            "mainClass": "min_squares",
+            "projectName": "dynamic_programminng_9e5affcb"
+        },
+        {
+            "type": "java",
+            "name": "Launch minimum_steps_to_reach_end",
+            "request": "launch",
+            "mainClass": "minimum_steps_to_reach_end",
+            "projectName": "dynamic_programminng_9e5affcb"
+        },
+        {
+            "type": "java",
+            "name": "Launch russian_doll",
+            "request": "launch",
+            "mainClass": "russian_doll",
+            "projectName": "dynamic_programminng_9e5affcb"
+        },
+        {
+            "type": "java",
+            "name": "Launch wildcard_pattern_matching",
+            "request": "launch",
+            "mainClass": "wildcard_pattern_matching",
+            "projectName": "dynamic_programminng_9e5affcb"
+        }
+    ]
+}
