@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch maximum_segments",
+            "request": "launch",
+            "mainClass": "maximum_segments",
+            "projectName": "dynamic_programminng_9e5affcb"
+        },
+        {
+            "type": "java",
+            "name": "Launch min_cost_traingulation",
+            "request": "launch",
+            "mainClass": "catalan_numbers.min_cost_traingulation",
+            "projectName": "dynamic_programminng_9e5affcb"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
