@@ -1,4 +1,4 @@
-package gap_strategy;
+package gap_strategy_with_internal_movement;
 
 import java.io.*;
 import java.util.*;

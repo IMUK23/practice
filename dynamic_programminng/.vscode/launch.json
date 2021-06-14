@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch boolean_parenthization",
+            "request": "launch",
+            "mainClass": "gap_strategy_with_internal_movement.boolean_parenthization",
+            "projectName": "dynamic_programminng_9e5affcb"
+        },
+        {
+            "type": "java",
+            "name": "Launch pallindromic_cut",
+            "request": "launch",
+            "mainClass": "gap_strategy_with_internal_movement.pallindromic_cut",
+            "projectName": "dynamic_programminng_9e5affcb"
+        },
+        {
+            "type": "java",
             "name": "Launch maximum_segments",
             "request": "launch",
             "mainClass": "maximum_segments",
