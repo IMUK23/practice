@@ -1,4 +1,5 @@
 public class add_two_numbers {
+    /*Used when output requires a linked list*/ 
     public static int addTwoListsHelper(Node one, Node two,int p1,int p2,LinkedList res) {
         if(one==null && two==null){
             return 0;
@@ -27,4 +28,19 @@ public class add_two_numbers {
             nxarr=dataa/10;
             return nxarr;
         }
+}
+public static LinkedList addTwoLists(LinkedList one, LinkedList two) {
+      
+    LinkedList res=new LinkedList();
+    
+    int last=addTwoListsHelper(one.head,two.head,one.size,two.size,res);
+    
+    if(last>0){
+        res.addFirst(last);
+    }
+    
+    return res;
+    
+  }
+
 }
